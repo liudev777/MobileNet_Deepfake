@@ -51,3 +51,6 @@ Thumbs.db
 dataset/
 
 pet_images/
+cifar10/
+
+*.pth
