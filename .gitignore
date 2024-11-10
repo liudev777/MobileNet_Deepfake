@@ -54,3 +54,15 @@ pet_images/
 cifar10/
 
 *.pth
+
+oxfordiiitpet/
+gt_label.txt
+pred_label.txt
+oxfordiiitpet_label/
+yolov3u.pt
+runs/
+
+datasets/
+train_val_test_datasets/
+
+generateDataset.py
