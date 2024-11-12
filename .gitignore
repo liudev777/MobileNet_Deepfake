@@ -66,3 +66,7 @@ datasets/
 train_val_test_datasets/
 
 generateDataset.py
+checkOverlap.py
+renameDataset.py
+
+*.zip
