@@ -1,2 +1,5 @@
-Link to dataset:
-https://drive.google.com/file/d/1254NyQ33t0o1Z2vv622bElNF-VBZb9Wa/view?usp=drive_link
+in data/:
+
+1) pip install requirements.txt
+2) install data.txt and include it under src/
+3) install model.txt and include it under src/
